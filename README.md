@@ -1,5 +1,5 @@
 # Analysis of Kickstar Campaign
-**##Overview of Project##**
+**Overview of Project**
 The objective of this analysis is to provide a basic idea about the funding amount required at the time of year to conduct a Kickstarter Campaign for theater events and especially for plays. We want to determine an appropriate goal and establish if there is too much or too little funding. We are trying to understand a suitable time of year to get this funding and if timing is a factor for this campaign.
 Analysis and Challenges
 Analysis of Outcomes Based on Launch Date
