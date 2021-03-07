@@ -12,8 +12,8 @@ Upon further analysis, it is shown that as the funding increase, the line of the
 One challenge I faced while preparing the data was with the “Countifs” function as this was something which was new to me. I was used to sorting data by applying filters and sorting data. After looking at the hints, I was able to solve for the “Countifs” function.
 # Results
 ## - What are two conclusions you can draw about the Outcomes based on Launch Date?
-•	The Months of May & June have a higher probability of success rate at 67% and 65% respectively based on empirical data.
-•	The months of December and January show lower success rates historically.
+•The Months of May & June have a higher probability of success rate at 67% and 65% respectively based on empirical data.
+•The months of December and January show lower success rates historically.
 ## - What can you conclude about the Outcomes based on Goals?
 •	Majority of the successful projects have received funding in the range of 1,000 and 4,999. Funding over 4,999 has exhibited a sharp decline of 55% in the success rates.
 
