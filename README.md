@@ -4,6 +4,7 @@ The objective of this analysis is to provide a basic idea about the funding amou
 # Analysis and Challenges
 ## Analysis of Outcomes Based on Launch Date
 While performing the analysis on Outcomes Based on Launch Date, the month of May appears to be when successful campaigns are at their peak. The curve picks up rise in trend from the month of April.
+![Outcomes_Vs_Goals.png](https://github.com/ritwikthakar/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Vs_Launch.png)
 ## Analysis of Outcomes Based on Goals
 Upon further analysis, it is shown that as the funding increase, the line of the chart decreases. We could say that success is possible in the range of 35,000 to 45,000, however the number of campaigns is significantly less. 
 ## Challenges and Difficulties Encountered
