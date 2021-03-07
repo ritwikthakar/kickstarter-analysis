@@ -7,7 +7,7 @@ While performing the analysis on Outcomes Based on Launch Date, the month of May
 ![Theater_Outcomes_Vs_Launch.png](https://github.com/ritwikthakar/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_Vs_Launch.png)
 ## Analysis of Outcomes Based on Goals
 Upon further analysis, it is shown that as the funding increase, the line of the chart decreases. We could say that success is possible in the range of 35,000 to 45,000, however the number of campaigns is significantly less.
-! [Outcomes_Vs_Goals.png]( https://github.com/ritwikthakar/kickstarter-analysis/blob/main/Resources/Outcomes_Vs_Goals.png)
+![Outcomes_Vs_Goals.png]( https://github.com/ritwikthakar/kickstarter-analysis/blob/main/Resources/Outcomes_Vs_Goals.png)
 ## Challenges and Difficulties Encountered
 One challenge I faced while preparing the data was with the “Countifs” function as this was something which was new to me. I was used to sorting data by applying filters and sorting data. After looking at the hints, I was able to solve for the “Countifs” function.
 # Results
