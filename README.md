@@ -15,7 +15,7 @@ One challenge I faced while preparing the data was with the “Countifs” funct
 * The Months of May & June have a higher probability of success rate at 67% and 65% respectively based on empirical data.
 * The months of December and January show lower success rates historically.
 ## - What can you conclude about the Outcomes based on Goals?
-•	Majority of the successful projects have received funding in the range of 1,000 and 4,999. Funding over 4,999 has exhibited a sharp decline of 55% in the success rates.
+Majority of the successful projects have received funding in the range of 1,000 and 4,999. Funding over 4,999 has exhibited a sharp decline of 55% in the success rates.
 
 
 ## - What are some limitations of this dataset?
